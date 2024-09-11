@@ -15,7 +15,7 @@ export const Landing = () => {
     AOS.init({
       disable: "phone",
       duration: 800,
-      easing: "ease-out-cubuc",
+      easing: "ease-out-cubic",
     });
   });
   return (
